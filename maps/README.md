@@ -1,0 +1,44 @@
+### Maps
+
+I have included all the maps I have made so far. Some of these are WIP's.
+
+- Roam: Oestridel City
+    - Tileset: Cynon's Metropolis 0.80
+        - Made by: {Cynon}
+        - Palette: Default
+- Roam: Oestridel Cathedral
+    - Tileset: FE8 Castle + Customs - Improved Tileset
+        - Made by: {N426}
+        - Palette: Purple Carpet
+    - Tileset: Cynon's Metropolis 0.80
+        - Made by: {Cynon}
+        - Palette: Default
+        - NOTE: Only the exterior portion of the second version of this map has it. This wouldn't work in FE Builder, but it does work in LT Maker.
+    - This is inside the large cathedral in the town. The idea is that region events at the edge of the cathedral let you walk into it.
+    - Because there's no "pews" or "chairs" in castle maps, I settled on the idea of having bookshelves and water.
+    - The rough idea here is that the sanctuary is on the second floor and won't be accessible.
+- Prologue (Ch0): Lady of Oestridel
+    - Tileset: Cynon's Metropolis 0.80
+        - Made by: {Cynon}
+        - Palette: Default
+    - This is merely a subset of Oestridel City. Also, this is an early version of it; the final version is a much smaller square.
+- Chapter 5
+    - Tileset: - FE8 - Fields - Remaster - Super Fields
+        - Made by: {WAve, RandomWizard, Beast}
+        - Palette: Aquamarine Roofs + Gray Mountains
+    - May change the palette later, but this is what I decided for now.
+    - This is the forest just outside of the Chapter 6 map. In my original plan this was going to be after that map instead of before.
+- Chapter 6
+    - Village - Remake + Coconut Tree + Ship Extras - Tileset
+        - Made by: {flasuban, N426, ZoramineFae, Venno}
+        - Palette: Default
+    - Originally was the Prologue, but I decided to set the Prologue much further back in time.
+    - As such, this will not encompass the whole village, but it also means the village needs to be redesigned to work better as a proper battle map.
+    - Originally I used Village Remake with Ship Extras because I wanted the ship here, but I don't need the ship in this particular map. So its possible I may swap it for a different tileset later, but I haven't decided yet.
+- Chapter 8
+    - Tileset: - FE8 - Fields - Remaster - Super Fields
+        - Made by: {WAve, RandomWizard, Beast}
+        - Palette: Dark Water, Pink Mountains
+        - NOTE: I'm heavily considering recreating this using a mountain tileset or perhaps Frontier Remake. I think it might look better.
+    - This map was originally the next map after Chapter 6, but now there's an extra gap map.
+    - The map is in the mountains northwest of the Chapter 6 map. The southeast corner is the starting position.

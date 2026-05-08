@@ -45,6 +45,18 @@ The following characters I have portraits for so far:
 
 2. Major Characters:
 
+    * Leiland Renald
+
+        * The Prince of House Renald and Svetlanya's adoptive older brother.
+        * Leiland is a Lykon, which are wolf-like elves. Her ears are furry on purpose. She has a tail but its not visible.
+        * Leiland the character belongs to me, but the portraits are F2E. You can use them, modify them or splice parts from them if you wish.
+
+    * Isabella Toirahm
+
+        * Princess of Siegwang living in Estbalc, or East Oestridel.
+        * Isabella is a Chiylo, who have lizard-like attributes including small horns and colored scaled skin. Isabella has a unique trait where she can alter her appearance like a chameleon, though it can't fully change her appearance.
+        * Isabella the character belongs to me, but the portraits are F2E. You can use them, modify them or splice parts from them if you wish.
+
     * Princess Shayala Massione
 
         * This one was a complete accident. I was using Klokgen to come up with designs and I came up with a really nice design that suited her well.
@@ -57,7 +69,18 @@ The following characters I have portraits for so far:
         * Includes both hooded and unhooded variants. She's a priestess and is similar in role to a cleric.
         * Kasuto the character belongs to me, but the portraits are F2E. You can use them, modify them or splice parts from them if you wish.
 
-    * Yarda
+    * Serena Schahl
+
+        * Serena is a Queiza which take inspiration from mermaids or other merfolk, though they have legs and finlike tails.
+        * Yarda the character belongs to me, but the portraits are F2E. You can use them, modify them or splice parts from them if you wish.
+
+    * Thanya Schahl
+
+        * The lost daughter of Treiy Schahl, Serena's husband.
+        * She's an Alf and it is not known where she originally comes from.
+        * Thanya the character belongs to me, but the portraits are F2E. You can use them, modify them or splice parts from them if you wish.
+
+    * Yarda Firdauj
 
         * Yarda's outfit design was inspired by a Sari. Her people's origins are intended to be inspired by Middle Eastern nations (India, Egypt, etc).
         * Her race is Zabos, which have feline characteristics.
