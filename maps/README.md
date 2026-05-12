@@ -3,10 +3,12 @@
 I have included all the maps I have made so far. Some of these are WIP's.
 
 - Roam: Oestridel City
+    - Filename(s): roam-oestridel1.png
     - Tileset: Cynon's Metropolis 0.80
         - Made by: {Cynon}
         - Palette: Default
 - Roam: Oestridel Cathedral
+    - Filename(s): roam-oestridel_cathedral.png, roam-oestridel_cathedral2.png
     - Tileset: FE8 Castle + Customs - Improved Tileset
         - Made by: {N426}
         - Palette: Purple Carpet
@@ -17,18 +19,21 @@ I have included all the maps I have made so far. Some of these are WIP's.
     - This is inside the large cathedral in the town. The idea is that region events at the edge of the cathedral let you walk into it.
     - Because there's no "pews" or "chairs" in castle maps, I settled on the idea of having bookshelves and water.
     - The rough idea here is that the sanctuary is on the second floor and won't be accessible.
-- Prologue (Ch0): Lady of Oestridel
+- Prologue: Lady of Oestridel
+    - Filename(s): ch0.png
     - Tileset: Cynon's Metropolis 0.80
         - Made by: {Cynon}
         - Palette: Default
     - This is merely a subset of Oestridel City. Also, this is an early version of it; the final version is a much smaller square.
 - Chapter 5
+    - Filename(s): ch5.png
     - Tileset: - FE8 - Fields - Remaster - Super Fields
         - Made by: {WAve, RandomWizard, Beast}
         - Palette: Aquamarine Roofs + Gray Mountains
     - May change the palette later, but this is what I decided for now.
     - This is the forest just outside of the Chapter 6 map. In my original plan this was going to be after that map instead of before.
 - Chapter 6
+    - Filename(s): ch6.png, ch6-legacy.png, ch6-water.png
     - Village - Remake + Coconut Tree + Ship Extras - Tileset
         - Made by: {flasuban, N426, ZoramineFae, Venno}
         - Palette: Default
@@ -36,6 +41,7 @@ I have included all the maps I have made so far. Some of these are WIP's.
     - As such, this will not encompass the whole village, but it also means the village needs to be redesigned to work better as a proper battle map.
     - Originally I used Village Remake with Ship Extras because I wanted the ship here, but I don't need the ship in this particular map. So its possible I may swap it for a different tileset later, but I haven't decided yet.
 - Chapter 8
+    - Filename(s): ch8.png
     - Tileset: - FE8 - Fields - Remaster - Super Fields
         - Made by: {WAve, RandomWizard, Beast}
         - Palette: Dark Water, Pink Mountains
