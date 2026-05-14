@@ -1,5 +1,5 @@
 #######################################################
-#3B wlfm_axe Paladin Lance
+#42 wlff_axe Berserker Hatchet
 #
 #When importing to FEditorAdv delete # and after each line.
 #######################################################
