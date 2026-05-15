@@ -25,7 +25,7 @@ this portrait.
 The tan variants are just for more natural skintones, but I was aiming for a slightly more unnatural pink tone for her design. That said, I may tweak her design and lean even more into it.
 
 - Variants: Standard, Veiled, Tan, Tan Veiled
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason..
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 32,16
@@ -38,7 +38,7 @@ This is an old design that is primarily traced from and based on an AI generated
 There's several variants because I kept trying to improve on the design, before I ended up scrapping it entirely.
 
 - Variants: Elf, Human, V1, V1 Human, V1 Elf, WIP V2
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 24,32
@@ -52,7 +52,7 @@ Amaya's earliest design was a female knight based on an RPG Maker XP custom spri
 Amaya is of the Queiza race which are related to the "water dragon". She's specifically a Queizol, a variant that look more "generic elf like". I have special lore I can't really share about them just yet.
 
 - Variants: Standard
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 32,16
@@ -65,7 +65,7 @@ My repeated failures to make this version look good is what got me to start rema
 Like with Svetlanya's legacy version, too, these are traced from an AI portrait design. The final sprite design has no elements brought in from the AI portrait, its completely redrawn from scratch with the trace, so do what you will with that.
 
 - Variants: V1, V1 Elf, V1 Human
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 24,24
@@ -79,7 +79,7 @@ Another one of my oldest OC's, Relm is a pretty critical character in my planned
 Relm's initial design is the "Clip Hooded" version, but her final design is the black Kimono, that's been her final planned design for almost 20 years now. She has had some modifications over the years, such as her ear design being changed... Well, some of the variants in here make it clear why.
 
 - Variants: Standard, Wavy, Clip Hooded, Clip Hood Down, Hood, Hood Down
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 32,24
@@ -93,7 +93,7 @@ Relm's initial design is the "Clip Hooded" version, but her final design is the 
 My first male portrait I completed! He's the prince of House Renald and Svetlanya's adoptive older brother. Leiland is a Lykon, which are wolf-like elves. His ears are furry on purpose. He has a tail but its not visible.
 
 - Variants: Standard
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 24,16
@@ -108,7 +108,7 @@ Isabella has a unique trait where she can alter her appearance like a chameleon,
 I like the design of the scales, but I admit I'm unhappy by the head pose. I was trying to have her leaning forward a lot more but it looks off.
 
 - Variants: Standard, Natural, Legacy
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 24,16
@@ -129,7 +129,7 @@ This one was a complete accident. I was using Klokgen to come up with designs an
 This design is nowhere near her final design, I intend on redrawing it from scratch. I am using it temporarily until I redraw it from scratch.
 
 - Variants: V2, V2 Forward, V1, V1 Elf, V1 Human
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 24,16
@@ -144,7 +144,7 @@ This design is nowhere near her final design, I intend on redrawing it from scra
 Kasuto was never intended to be a Cleric, but when I needed a Cleric for the story, it just felt right to put her into that position. She's actually a priestess, but close enough. I created hooded and hoodless variants.
 
 - Variants: Standard, Hoodless
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 32,16
@@ -157,7 +157,7 @@ Serena is a Queiza which take inspiration from mermaids or other merfolk, though
 My intent is for her to be a mentor-like figure to Svetlanya.
 
 - Variants: Standard, Tan
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 32,16
@@ -168,7 +168,7 @@ My intent is for her to be a mentor-like figure to Svetlanya.
 Thanya is the daughter of Serena's husband, though he had not seen her for years before she was brought to him. She's an adult woman but has some major disabilities due to her memory, so she mostly acts as a helper to others as its difficult for her to be independent. Serena tends to keep her close by as Thanya's father doesn't really care for her much.
 
 - Variants: Standard, Natural, Zabos
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 32,16
@@ -181,7 +181,7 @@ Yarda's outfit design was inspired by a Sari. Her people's origins are intended 
 I'm not fully happy with her design, I'll probably adjust it later.
 
 - Variants: Standard, Runeless
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 32,16
@@ -195,7 +195,7 @@ I'm not fully happy with her design, I'll probably adjust it later.
 In my writing of an early chapter I had Svetlanya speak to a cleric who I ended up making into Kasuto. During that conversation a generic cleric ran up to her. I decided to create a concept design for what geeric Lykon clerics look like, and it wound up being Frida.
 
 - Variants: Standard, No Veil
-- Credits: Character &copy; to me, JaidynReiman, but you are free to use the portrait for any reason.
+- Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.
 - License(s): CC0, F2E, F2U
 - Offsets:
     - Eyes: 24,16
