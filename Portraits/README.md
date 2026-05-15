@@ -192,7 +192,7 @@ I'm not fully happy with her design, I'll probably adjust it later.
 
 ### Frida Schenack
 
-In my writing of an early chapter I had Svetlanya speak to a cleric who I ended up making into Kasuto. During that conversation a generic cleric ran up to her. I decided to create a concept design for what geeric Lykon clerics look like, and it wound up being Frida.
+In my writing of an early chapter I had Svetlanya speak to a cleric who I ended up making into Kasuto. During that conversation a generic cleric ran up to her. I decided to create a concept design for what generic Lykon clerics look like, and it wound up being Frida.
 
 - Variants: Standard, No Veil
 - Credits: Character copyright to JaidynReiman but portrait is free to use for any reason.

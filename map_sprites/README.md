@@ -49,7 +49,7 @@ I abandoned this design because I just don't like it as much, but I'm leaving it
 
 This is just Svetlanya's design without her non-human physical attributes, making her "generic". This is designed for people who like the sprite and just want to use her.
 
-No Move animation exists _yet_, but I will create one later. Its not that hard, but I have to make some minor alterrations to make it work. A better variant would probably be not making her hair white either so she's truly "generic".
+No Move animation exists _yet_, but I will create one later. Its not that hard, but I have to make some minor alterations to make it work. A better variant would probably be not making her hair white either so she's truly "generic".
 
 Until a Generic Move is made, just use Svetlanya's move animation.
 

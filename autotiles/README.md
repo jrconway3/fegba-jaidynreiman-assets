@@ -14,7 +14,7 @@ The autotiles for the darker water do not work correctly, they are recolored blu
 - Original Map Animations by: {Cynon}
 - License(s): F2E, F2U
 
-### Steetlamp Palette Animations
+### Streetlamp Palette Animations
 
 I manually created every streetlamp palette animation as autotiles.
 
